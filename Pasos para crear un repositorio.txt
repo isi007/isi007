@@ -1,0 +1,8 @@
+//En gitub hay que crear un nuevo proyecto y configurarlo
+//Creamos una carpeta en nuestra pc, accedemos a la carpeta creada.
+git init //Inicia el repositorio
+git add . //Agrega todo lo modificado
+git commit -m "<description>"
+git remote add origin <link github>
+git push -u origin master //Sube los cambios al repositorio
+
